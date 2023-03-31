@@ -1,6 +1,6 @@
 Name:		texlive-swungdash
 Version:	64204
-Release:	1
+Release:	2
 Summary:	Typeset a swung dash in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/swungdash
