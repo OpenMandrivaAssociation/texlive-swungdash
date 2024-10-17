@@ -3,7 +3,7 @@ Version:	64204
 Release:	2
 Summary:	Typeset a swung dash in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/swungdash
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/swungdash
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/swungdash.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/swungdash.doc.r%{version}.tar.xz
